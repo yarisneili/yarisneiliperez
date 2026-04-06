@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+edad
+1
+0
+4
+1
+17
+'indique su edad'
+5
+1
+4
+edad
+6
+1
+11
+pulsaciones
+13
+(220-edad)/10
+4
+1
+52
+'el resultado de las pulsaciones es de:',pulsaciones
+1

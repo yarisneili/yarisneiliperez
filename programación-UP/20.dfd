@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+11
+sueldo_base
+1
+0
+6
+v1v2v3
+1
+0
+14
+total_comision
+1
+0
+6
+1
+10
+pago_total
+1
+0
+4
+1
+25
+'ingrese el sueldo base:'
+5
+1
+11
+sueldo_base
+4
+1
+46
+'ingrese el valor de las 3 ventas realozadas:'
+5
+1
+10
+v1, v2, v3
+6
+2
+14
+total_comision
+15
+(v1+v2+v3)*0.10
+10
+pago_total
+26
+sueldo_base+total_comision
+4
+1
+75
+'dinero por comisiones:', total_comision, 'pago total del mes:', pago_total
+1

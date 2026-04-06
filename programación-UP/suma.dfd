@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+6
+3
+1
+d
+1
+0
+1
+E
+1
+0
+1
+F
+1
+0
+4
+1
+35
+'digame el valor del primer numero'
+5
+1
+1
+a
+4
+1
+36
+'digame el valor del segundo numero'
+5
+1
+1
+b
+6
+3
+1
+c
+3
+a+b
+1
+d
+3
+a-b
+1
+E
+3
+a*b
+6
+1
+1
+F
+3
+a/b
+4
+1
+31
+'el resultado de la suma es:',c
+4
+1
+32
+'el resultado de la resta es:',d
+4
+1
+39
+'el resultado de la multiplacion es:',E
+4
+1
+35
+'el resultado de la division es:',F
+1

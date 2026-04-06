@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+21
+ex_mattar_matprom_mat
+1
+0
+21
+ex_fistar_fisprom_fis
+1
+0
+21
+ex_quitar_quiprom_qui
+1
+0
+6
+1
+12
+prom_general
+1
+0
+4
+1
+56
+'matematicas:nota de examen y promedio de sus 3 tareas:'
+5
+1
+7
+ex_mat 
+5
+1
+7
+tar_mat
+6
+1
+8
+prom_mat
+26
+(ex_mat*0.9)+(tar_mat*0.1)
+4
+1
+51
+'fisica:nota de examen y promedio de sus 2 tareas;'
+5
+1
+15
+ex_fis, tar_fis
+6
+1
+8
+prom_fis
+26
+(ex_fis*0.8)+(tar_fis*0.2)
+4
+1
+47
+'quimica: nota de examen y promedio de tareas:'
+5
+1
+15
+ex_qui, tar_qui
+6
+1
+8
+prom_qui
+28
+(ex_qui*0.85)+(tar_qui*0.15)
+6
+1
+12
+prom_general
+30
+(prom_mat+prom_fis+prom_qui)/3
+4
+1
+38
+'el promedio general es:',prom_general
+1

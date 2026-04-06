@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+17
+presupuesto_total
+1
+0
+4
+gine
+1
+0
+6
+trauma
+1
+0
+6
+1
+5
+pedia
+1
+0
+4
+1
+50
+'ingrese el presupuesto anual total del hospital:'
+5
+1
+17
+presupuesto_total
+6
+3
+4
+gine
+22
+presupuesto_total*0.40
+6
+trauma
+22
+presupuesto_total*0.30
+5
+pedia
+22
+presupuesto_total*0.30
+4
+1
+43
+'el presupuesto de ginecologia es de:',gine
+4
+1
+48
+'el presupuesto de traumatologia es de:',trauma 
+4
+1
+42
+'el presupuesto de pediatria es de:',pedia
+1

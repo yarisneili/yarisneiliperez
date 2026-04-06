@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'coloque la temperatura en fahrenheit'
+5
+1
+1
+F
+6
+1
+1
+c
+12
+(F - 32)*5/9
+4
+1
+44
+'su temperatura convertida en celsius es:',c
+1

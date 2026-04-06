@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+compra
+1
+0
+9
+descuento
+1
+0
+10
+pago_final
+1
+0
+4
+1
+38
+'ingrese el valor total de la compra:'
+5
+1
+6
+compra
+6
+2
+9
+descuento
+11
+compra*0.15
+10
+pago_final
+16
+compra-descuento
+4
+1
+63
+'el descuento es:',descuento, 'el total a pagar es:',pago_final
+1
